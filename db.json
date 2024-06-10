@@ -35,7 +35,31 @@
       "email": "alice.jones@somemail.com",
       "aboutSelf": "Looking for a new, loving home for my dog due to changes in my life. I hope to connect with someone passionate about providing a caring and stable environment.",
       "id": 3
-    }
+    },
+    {
+      "firstName": "Clara",
+      "middleName": "",
+      "lastName": "Caring Homes",
+      "hasFencedYard": true,
+      "hasChildren": true,
+      "hasOtherPets": false,
+      "phoneNumber": "789-321-6540",
+      "email": "clara@caringshelter.com",
+      "aboutSelf": "Clara from Caring Homes works to ensure that every pet finds a forever home, offering personalized adoption processes and continuous support. Her center features comfortable living spaces and regular pet care education programs.",
+      "id": 4
+    },
+    {
+      "firstName": "Green",
+      "middleName": "",
+      "lastName": "Grove Shelter",
+      "hasFencedYard": false,
+      "hasChildren": false,
+      "hasOtherPets": true,
+      "phoneNumber": "802-456-7890",
+      "email": "contact@greengrove.com",
+      "aboutSelf": "Green Grove Shelter focuses on rescuing and providing temporary homes to exotic and domestic animals alike. Their facility includes natural habitats and expert care, promoting the well-being and adoption of animals in a community-focused environment.",
+      "id": 5
+    }                
   ],
   "pets": [
         {
