@@ -1,1 +1,1 @@
-server: https://my-json-server.typicode.com/TinglanWei/adopt-json-server
+server: https://my-json-server.typicode.com/tinglanw/adopt-json-server
